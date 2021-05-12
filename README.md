@@ -8,3 +8,4 @@
 6. Drawing the circle
 7. Drawing the polygon with vertices on ellipse
 8. Flood fill algorithm
+9. Triangle texturing
