@@ -9,3 +9,6 @@
 7. Drawing the polygon with vertices on ellipse
 8. Flood fill algorithm
 9. Triangle texturing
+10. 2D transformations - transform, scale, rotate, shearing
+11. Bezier curves
+12. B-spline curves
