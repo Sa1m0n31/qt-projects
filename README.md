@@ -13,3 +13,4 @@
 11. Bezier curves
 12. B-spline curves
 13. Morphing - transform one triangle into another
+14. Cube 3D transformations, hidden surgace determination (back-face culling)
